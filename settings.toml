@@ -1,0 +1,10 @@
+[default]
+# Conexiones RDS
+user = 'postgres'
+dbname = 'nombre_de_su_base'
+host = 'url_de_su_base'
+password = 'contraseña'
+port = '5432'
+
+# S3
+bucket_name = 'nombre_de_su_bucket'
