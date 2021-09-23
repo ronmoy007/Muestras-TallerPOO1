@@ -13,6 +13,7 @@ class Trabajador(UtileriaGral):
     str_NombreDirectorio = ''
     str_NombreDirectorio = ''
 
+    # Constructor
     def __init__(self):
         super().__init__()
 
