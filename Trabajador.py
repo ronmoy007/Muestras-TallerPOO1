@@ -1,7 +1,7 @@
 # Tareas específicas de nuestro problema
 from UtileriaGral import UtileriaGral
 
-
+# Clase trabajador
 class Trabajador(UtileriaGral):
 
     str_UrlWebScraping1 = ''
