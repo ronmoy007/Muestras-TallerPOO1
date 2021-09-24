@@ -11,6 +11,7 @@ class UtileriaGral():
     UtileriaS3 = UtileriaS3()
     UtileriaRDS = UtileriaRDS()
 
+    # Método de ejemplo para CeroUno
     def ObtenerTamanioArchivo(self, str_NombreArchivo):
         nbr_file_size = os.stat(str_NombreArchivo).st_size
         return nbr_file_size

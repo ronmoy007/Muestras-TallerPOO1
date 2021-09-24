@@ -4,6 +4,7 @@ from UtileriaGral import UtileriaGral
 # Clase trabajador
 class Trabajador(UtileriaGral):
 
+    # Aquí van los atributos
     str_UrlWebScraping1 = ''
     str_NomArchDesc1 = ''
     str_NomArchDesc2 = ''
