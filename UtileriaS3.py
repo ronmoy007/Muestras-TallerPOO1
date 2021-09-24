@@ -3,7 +3,7 @@ import boto3
 from dynaconf import settings
 
 
-# Código genérico respecto a S3
+# Código genérico respecto a S3, es muy útil
 class UtileriaS3():
 
     # Atributos de conexión referentes a S3
